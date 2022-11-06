@@ -1,4 +1,4 @@
-# NFTs sold by account - Powered by NFTPort
+# NFT sales dashboard - Powered by NFTPort
 ![](screenshots/screen1.png)
 
 The app is available on Streamlit Cloud: https://zseta-nftport-demo-app-v7lcml.streamlit.app/
@@ -19,7 +19,7 @@ The app is available on Streamlit Cloud: https://zseta-nftport-demo-app-v7lcml.s
     virtualenv env && source env/bin/activate
     pip install -r requirements.txt
     ```
-    This will install Streamlit, Plotly, requests, and their all of their dependencies
+    This will install Streamlit, Plotly, requests, and all of their dependencies
 1. Open the streamlit secrets file and add your NFTPort API key
     ```bash
 	nano ./streamlit/secrets.toml
