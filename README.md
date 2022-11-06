@@ -35,10 +35,10 @@ The app is available on Streamlit Cloud: https://zseta-nftport-demo-app-v7lcml.s
 The app lets you analyze sale transactions made by a specific account on the
 Ethereum blockchain.
 
-1. Provide an account/wallet address 
-    You can either choose an address from the dropdown list, as an example, or
-    you can also provide a custom ETH address that you want to analyze.
-2. The dashboard automatically updates once you hit enter.
+1. Provide an account/wallet address.
+
+    You can either choose an address from the dropdown list, as an example, or you can provide a custom ETH address that you want to analyze.
+1. The dashboard automatically updates once you hit enter.
 
 ### Dashboard
 **High-level metrics**
