@@ -22,7 +22,7 @@ The app is available on Streamlit Cloud: https://zseta-nftport-demo-app-v7lcml.s
     This will install Streamlit, Plotly, requests, and all of their dependencies
 1. Open the streamlit secrets file and add your NFTPort API key
     ```bash
-	nano ./streamlit/secrets.toml
+	nano .streamlit/secrets.toml
     [NFTPORT]
     APIKEY = "YOUR-API-KEY-HERE"
 	```
